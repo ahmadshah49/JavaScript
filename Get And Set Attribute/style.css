@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    display: flex;
+    height: 64px;
+    background-color: black;
+    color: whitesmoke;
+    justify-content: space-evenly;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    column-gap: 20px;
+}
+nav li{
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color: wheat;
+}
+.home{
+    width: 100%;
+  
+   
+}
+.homw{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    height: 95vh;
+    background: yellow;
+}
+.homw a{
+    padding: 12px 18px;
+    text-decoration: none   ;
+    background: white   ;
+    margin-top: 20px;
+    border: 1px solid black ;
+    border-radius: 8px;
+}
