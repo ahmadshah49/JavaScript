@@ -24,9 +24,12 @@
 
 
 // more parctice 
-let Name=document.querySelector("#nav a")
+// let Name=document.querySelector("#nav a")
+// console.log(Name.getAttribute("href"));
+// Name.setAttribute("href",'https://youtube.com')
+// console.log(Name.getAttribute("href"));
+let Name=document.querySelector("#hom a")
 console.log(Name.getAttribute("href"));
-Name.setAttribute("href",'https://youtube.com')
+Name.setAttribute("href","https://facebook.com")
 console.log(Name.getAttribute("href"));
-
 
