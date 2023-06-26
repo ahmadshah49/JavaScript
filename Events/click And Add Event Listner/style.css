@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   background: black;
+   height: 64px;
+}
+.li{
+    display: flex;
+    column-gap: 30px;
+}.li li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+.nav h1{
+    color: orange;
+}
+.home{
+    background: rgb(116, 51, 51);
+    height:40vh;
+    width: 100%;
+}
+.home2{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.home2 a{
+    padding: 10px 14px;
+    background: white;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.home2 h2{
+font-size: 50px;
+color: white;
+}
