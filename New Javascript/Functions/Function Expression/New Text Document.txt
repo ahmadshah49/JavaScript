@@ -1,0 +1,32 @@
+Task: User Information Validation
+
+You have been assigned to create a user information validation system. The system should prompt the user to enter their name, age, and email address. Your task is to implement the following validation checks:
+
+Name Validation:
+
+Check if the name entered by the user is at least 3 characters long.
+If the name is valid, convert it to uppercase and display it.
+If the name is not valid, display an error message.
+Age Validation:
+
+Check if the age entered by the user is a positive integer.
+If the age is valid, display a message saying "Welcome [Name], you are [Age] years old."
+If the age is not valid, display an error message.
+Email Validation:
+
+Check if the email entered by the user contains the '@' symbol.
+If the email is valid, display a success message saying "Email validation successful!"
+If the email is not valid, display an error message.
+Note: You can use if-else statements, loops, string methods, array methods, and other concepts you've learned to implement the validation checks.
+
+Instructions:
+
+Prompt the user to enter their name and assign it to a variable.
+Implement the name validation checks and display the appropriate message/error.
+Prompt the user to enter their age and assign it to a variable.
+Implement the age validation checks and display the appropriate message/error.
+Prompt the user to enter their email address and assign it to a variable.
+Implement the email validation checks and display the appropriate message/error.
+You can use console.log() to display messages to the user.
+
+Feel free to ask if you have any questions or need further clarification!
