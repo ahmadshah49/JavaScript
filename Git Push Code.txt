@@ -1,0 +1,15 @@
+
+
+
+
+Make changes to your code or files that you want to commit.
+Stage the changes by running git add followed by the filenames or a period to stage all changes. For example, git add file1.txt file2.txt or git add ..
+Commit the changes by running git commit -m "commit message", where "commit message" is a brief description of the changes you made.
+Push the changes to your GitHub repository by running git push.
+If you have not yet created your first commit, you can do so by following these steps:
+
+Initialize a Git repository in your project directory by running git init.
+Add the files you want to track to the repository by running git add followed by the filenames or a period to add all files. For example, git add file1.txt file2.txt or git add ..
+Commit the changes by running git commit -m "initial commit", where "initial commit" is a brief description of the changes you made.
+Set up a remote repository on GitHub and connect it to your local repository by following the instructions provided by GitHub.
+Push the changes to your GitHub repository by running git push.
