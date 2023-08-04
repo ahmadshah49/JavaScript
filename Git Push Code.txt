@@ -2,9 +2,8 @@
 
 
 
-Make changes to your code or files that you want to commit.
-Stage the changes by running git add followed by the filenames or a period to stage all changes. For example, git add file1.txt file2.txt or git add ..
-Commit the changes by running git commit -m "commit message", where "commit message" is a brief description of the changes you made.
+, git add file1.txt file2.txt or git add ..
+g git commit -m "commit message", where "commit message" is a brief description of the changes you made.
 Push the changes to your GitHub repository by running git push.
 If you have not yet created your first commit, you can do so by following these steps:
 
